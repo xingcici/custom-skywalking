@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-etcd-plugin" />
+        <module name="configuration-etcd" />
+        <module name="apm-util" />
+        <module name="apm-lettuce-5.x-plugin" />
+        <module name="sofa-rpc-plugin" />
+        <module name="configuration-api" />
+        <module name="apm-mysql-commons" />
+        <module name="apm-elasticsearch-5.x-plugin" />
+        <module name="dubbo-conflict-patch" />
+        <module name="apm-servicecomb-java-chassis-0.x-plugin" />
+        <module name="apm-mongodb-3.x-plugin" />
+        <module name="apm-xmemcached-2.x-plugin" />
+        <module name="zipkin-receiver-plugin" />
+        <module name="apm-jetty-server-9.x-plugin" />
+        <module name="tomcat-7.x-8.x-plugin" />
+        <module name="apm-canal-1.x-plugin" />
+        <module name="cluster-kubernetes-plugin" />
+        <module name="apm-springmvc-annotation-3.x-plugin" />
+        <module name="apm-activemq-5.x-plugin" />
+        <module name="apm-sharding-jdbc-1.5.x-plugin" />
+        <module name="apm-toolkit-trace" />
+        <module name="apm-toolkit-logback-1.x-activation" />
+        <module name="storage-zipkin-plugin" />
+        <module name="telemetry-api" />
+        <module name="apm-agent-core" />
+        <module name="apm-zookeeper-3.4.x-plugin" />
+        <module name="cluster-nacos-plugin" />
+        <module name="storage-jdbc-hikaricp-plugin" />
+        <module name="apm-servicecomb-java-chassis-1.x-plugin" />
+        <module name="apm-sharding-sphere-3.x-plugin" />
+        <module name="apm-spring-core-patch" />
+        <module name="apm-h2-1.x-plugin" />
+        <module name="motan-plugin" />
+        <module name="configuration-zookeeper" />
+        <module name="skywalking-jvm-receiver-plugin" />
+        <module name="apm-grpc-1.x-plugin" />
+        <module name="apm-toolkit-log4j-2.x-activation" />
+        <module name="apm-gson-2.x-plugin" />
+        <module name="telemetry-prometheus" />
+        <module name="skywalking-clr-receiver-plugin" />
+        <module name="apm-customize-enhance-plugin" />
+        <module name="apm-rocketmq-3.x-plugin" />
+        <module name="apm-jdbc-commons" />
+        <module name="cluster-zookeeper-plugin" />
+        <module name="apm-jetty-client-9.0-plugin" />
+        <module name="apm-agent" />
+        <module name="skywalking-mesh-receiver-plugin" />
+        <module name="apm-mongodb-2.x-plugin" />
+        <module name="exporter" />
+        <module name="apm-vertx-core-3.x-plugin" />
+        <module name="server-starter" />
+        <module name="apm-mysql-6.x-plugin" />
+        <module name="apm-solrj-7.x-plugin" />
+        <module name="library-server" />
+        <module name="configuration-apollo" />
+        <module name="cluster-consul-plugin" />
+        <module name="apm-httpClient-4.x-plugin" />
+        <module name="apm-springmvc-annotation-4.x-plugin" />
+        <module name="apm-nutz-http-1.x-plugin" />
+        <module name="apm-hystrix-1.x-plugin" />
+        <module name="apm-feign-default-http-9.x-plugin" />
+        <module name="cluster-standalone-plugin" />
+        <module name="configuration-nacos" />
+        <module name="generate-tool" />
+        <module name="grpc-configuration-sync" />
+        <module name="apm-toolkit-trace-activation" />
+        <module name="apm-dubbo-2.7.x-plugin" />
+        <module name="apm-trace-ignore-plugin" />
+        <module name="receiver-proto" />
+        <module name="envoy-metrics-receiver-plugin" />
+        <module name="apm-httpasyncclient-4.x-plugin" />
+        <module name="server-alarm-plugin" />
+        <module name="apm-rabbitmq-5.x-plugin" />
+        <module name="library-util" />
+        <module name="apm-springmvc-annotation-5.x-plugin" />
+        <module name="library-client" />
+        <module name="apm-springmvc-annotation-commons" />
+        <module name="storage-elasticsearch-plugin" />
+        <module name="apm-spring-annotation-plugin" />
+        <module name="server-testing" />
+        <module name="apm-rocketmq-4.x-plugin" />
+        <module name="apm-redisson-3.x-plugin" />
+        <module name="apm-spymemcached-2.x-plugin" />
+        <module name="apm-webapp" />
+        <module name="apm-toolkit-log4j-1.x-activation" />
+        <module name="skywalking-istio-telemetry-receiver-plugin" />
+        <module name="apm-struts2-2.x-plugin" />
+        <module name="jaeger-receiver-plugin" />
+        <module name="storage-jaeger-plugin" />
+        <module name="apm-okhttp-3.x-plugin" />
+        <module name="apm-spring-cloud-gateway-2.x-plugin" />
+        <module name="apm-datacarrier" />
+        <module name="skywalking-trace-receiver-plugin" />
+        <module name="apm-mysql-8.x-plugin" />
+        <module name="resteasy-server-3.x-plugin" />
+        <module name="apm-dubbo-plugin" />
+        <module name="apm-toolkit-opentracing-activation" />
+        <module name="spring-commons" />
+        <module name="apm-toolkit-log4j-1.x" />
+        <module name="skywalking-register-receiver-plugin" />
+        <module name="dubbo-2.7.x-conflict-patch" />
+        <module name="apm-spring-concurrent-util-4.x-plugin" />
+        <module name="apm-sharding-sphere-4.x-plugin" />
+        <module name="apm-kafka-v1-plugin" />
+        <module name="apm-toolkit-opentracing" />
+        <module name="query-graphql-plugin" />
+        <module name="apm-webflux-5.x-plugin" />
+        <module name="library-module" />
+        <module name="apm-spring-cloud-feign-1.x-plugin" />
+        <module name="apm-postgresql-8.x-plugin" />
+        <module name="apm-nutz-mvc-annotation-1.x-plugin" />
+        <module name="apm-mysql-5.x-plugin" />
+        <module name="apm-toolkit-log4j-2.x" />
+        <module name="apm-network" />
+        <module name="generate-tool-grammar" />
+        <module name="apm-jedis-2.x-plugin" />
+        <module name="skywalking-sharing-server-plugin" />
+        <module name="apm-resttemplate-4.3.x-plugin" />
+        <module name="apm-test-tools" />
+        <module name="library-buffer" />
+        <module name="generated-analysis" />
+        <module name="apm-jetty-client-9.x-plugin" />
+        <module name="apm-toolkit-logback-1.x" />
+        <module name="apm-elastic-job-2.x-plugin" />
+        <module name="apm-undertow-2.x-plugin" />
+        <module name="server-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-skywalking-apm" target="1.8" />
+      <module name="apm" target="1.8" />
+      <module name="apm-activemq-5.x-plugin" target="1.6" />
+      <module name="apm-agent" target="1.6" />
+      <module name="apm-agent-core" target="1.6" />
+      <module name="apm-application-toolkit" target="1.6" />
+      <module name="apm-canal-1.x-plugin" target="1.6" />
+      <module name="apm-commons" target="1.6" />
+      <module name="apm-customize-enhance-plugin" target="1.6" />
+      <module name="apm-datacarrier" target="1.6" />
+      <module name="apm-dubbo-2.7.x-plugin" target="1.6" />
+      <module name="apm-dubbo-plugin" target="1.6" />
+      <module name="apm-elastic-job-2.x-plugin" target="1.6" />
+      <module name="apm-elasticsearch-5.x-plugin" target="1.6" />
+      <module name="apm-feign-default-http-9.x-plugin" target="1.6" />
+      <module name="apm-grpc-1.x-plugin" target="1.6" />
+      <module name="apm-gson-2.x-plugin" target="1.6" />
+      <module name="apm-h2-1.x-plugin" target="1.6" />
+      <module name="apm-httpasyncclient-4.x-plugin" target="1.6" />
+      <module name="apm-httpClient-4.x-plugin" target="1.6" />
+      <module name="apm-hystrix-1.x-plugin" target="1.6" />
+      <module name="apm-jdbc-commons" target="1.6" />
+      <module name="apm-jedis-2.x-plugin" target="1.6" />
+      <module name="apm-jetty-client-9.0-plugin" target="1.6" />
+      <module name="apm-jetty-client-9.x-plugin" target="1.6" />
+      <module name="apm-jetty-server-9.x-plugin" target="1.6" />
+      <module name="apm-kafka-v1-plugin" target="1.6" />
+      <module name="apm-lettuce-5.x-plugin" target="1.8" />
+      <module name="apm-mongodb-2.x-plugin" target="1.6" />
+      <module name="apm-mongodb-3.x-plugin" target="1.6" />
+      <module name="apm-mysql-5.x-plugin" target="1.6" />
+      <module name="apm-mysql-6.x-plugin" target="1.6" />
+      <module name="apm-mysql-8.x-plugin" target="1.6" />
+      <module name="apm-mysql-commons" target="1.6" />
+      <module name="apm-network" target="1.6" />
+      <module name="apm-nutz-http-1.x-plugin" target="1.6" />
+      <module name="apm-nutz-mvc-annotation-1.x-plugin" target="1.6" />
+      <module name="apm-okhttp-3.x-plugin" target="1.6" />
+      <module name="apm-postgresql-8.x-plugin" target="1.6" />
+      <module name="apm-protocol" target="1.8" />
+      <module name="apm-rabbitmq-5.x-plugin" target="1.6" />
+      <module name="apm-redisson-3.x-plugin" target="1.6" />
+      <module name="apm-resttemplate-4.3.x-plugin" target="1.6" />
+      <module name="apm-rocketmq-3.x-plugin" target="1.6" />
+      <module name="apm-rocketmq-4.x-plugin" target="1.6" />
+      <module name="apm-sdk-plugin" target="1.6" />
+      <module name="apm-servicecomb-java-chassis-0.x-plugin" target="1.6" />
+      <module name="apm-servicecomb-java-chassis-1.x-plugin" target="1.6" />
+      <module name="apm-sharding-jdbc-1.5.x-plugin" target="1.6" />
+      <module name="apm-sharding-sphere-3.x-plugin" target="1.6" />
+      <module name="apm-sharding-sphere-4.x-plugin" target="1.6" />
+      <module name="apm-sniffer" target="1.6" />
+      <module name="apm-solrj-7.x-plugin" target="1.6" />
+      <module name="apm-spring-annotation-plugin" target="1.6" />
+      <module name="apm-spring-cloud-feign-1.x-plugin" target="1.6" />
+      <module name="apm-spring-cloud-gateway-2.x-plugin" target="1.6" />
+      <module name="apm-spring-concurrent-util-4.x-plugin" target="1.6" />
+      <module name="apm-spring-core-patch" target="1.6" />
+      <module name="apm-springmvc-annotation-3.x-plugin" target="1.6" />
+      <module name="apm-springmvc-annotation-4.x-plugin" target="1.6" />
+      <module name="apm-springmvc-annotation-5.x-plugin" target="1.6" />
+      <module name="apm-springmvc-annotation-commons" target="1.6" />
+      <module name="apm-spymemcached-2.x-plugin" target="1.6" />
+      <module name="apm-struts2-2.x-plugin" target="1.6" />
+      <module name="apm-test-tools" target="1.6" />
+      <module name="apm-toolkit-activation" target="1.6" />
+      <module name="apm-toolkit-log4j-1.x" target="1.6" />
+      <module name="apm-toolkit-log4j-1.x-activation" target="1.6" />
+      <module name="apm-toolkit-log4j-2.x" target="1.6" />
+      <module name="apm-toolkit-log4j-2.x-activation" target="1.6" />
+      <module name="apm-toolkit-logback-1.x" target="1.6" />
+      <module name="apm-toolkit-logback-1.x-activation" target="1.6" />
+      <module name="apm-toolkit-opentracing" target="1.6" />
+      <module name="apm-toolkit-opentracing-activation" target="1.6" />
+      <module name="apm-toolkit-trace" target="1.6" />
+      <module name="apm-toolkit-trace-activation" target="1.6" />
+      <module name="apm-trace-ignore-plugin" target="1.6" />
+      <module name="apm-undertow-2.x-plugin" target="1.6" />
+      <module name="apm-util" target="1.6" />
+      <module name="apm-vertx-core-3.x-plugin" target="1.6" />
+      <module name="apm-webapp" target="1.8" />
+      <module name="apm-webflux-5.x-plugin" target="1.6" />
+      <module name="apm-xmemcached-2.x-plugin" target="1.6" />
+      <module name="apm-zookeeper-3.4.x-plugin" target="1.6" />
+      <module name="cluster-consul-plugin" target="1.8" />
+      <module name="cluster-etcd-plugin" target="1.8" />
+      <module name="cluster-kubernetes-plugin" target="1.8" />
+      <module name="cluster-nacos-plugin" target="1.8" />
+      <module name="cluster-standalone-plugin" target="1.8" />
+      <module name="cluster-zookeeper-plugin" target="1.8" />
+      <module name="configuration-api" target="1.8" />
+      <module name="configuration-apollo" target="1.8" />
+      <module name="configuration-etcd" target="1.8" />
+      <module name="configuration-nacos" target="1.8" />
+      <module name="configuration-zookeeper" target="1.8" />
+      <module name="dubbo-2.7.x-conflict-patch" target="1.6" />
+      <module name="dubbo-conflict-patch" target="1.6" />
+      <module name="envoy-metrics-receiver-plugin" target="1.8" />
+      <module name="exporter" target="1.8" />
+      <module name="generate-tool" target="1.8" />
+      <module name="generate-tool-grammar" target="1.8" />
+      <module name="generated-analysis" target="1.8" />
+      <module name="grpc-configuration-sync" target="1.8" />
+      <module name="jaeger-receiver-plugin" target="1.8" />
+      <module name="jetty-plugins" target="1.6" />
+      <module name="library-buffer" target="1.8" />
+      <module name="library-client" target="1.8" />
+      <module name="library-module" target="1.8" />
+      <module name="library-server" target="1.8" />
+      <module name="library-util" target="1.8" />
+      <module name="motan-plugin" target="1.6" />
+      <module name="netflix-plugins" target="1.6" />
+      <module name="nutz-plugins" target="1.6" />
+      <module name="oap-server" target="1.8" />
+      <module name="optional-plugins" target="1.6" />
+      <module name="optional-spring-cloud" target="1.6" />
+      <module name="optional-spring-plugins" target="1.6" />
+      <module name="query-graphql-plugin" target="1.8" />
+      <module name="receiver-proto" target="1.8" />
+      <module name="resteasy-plugin" target="1.6" />
+      <module name="resteasy-server-3.x-plugin" target="1.6" />
+      <module name="server-alarm-plugin" target="1.8" />
+      <module name="server-cluster-plugin" target="1.8" />
+      <module name="server-configuration" target="1.8" />
+      <module name="server-core" target="1.8" />
+      <module name="server-library" target="1.8" />
+      <module name="server-query-plugin" target="1.8" />
+      <module name="server-receiver-plugin" target="1.8" />
+      <module name="server-starter" target="1.8" />
+      <module name="server-storage-plugin" target="1.8" />
+      <module name="server-telemetry" target="1.8" />
+      <module name="server-testing" target="1.8" />
+      <module name="servicecomb-plugin" target="1.6" />
+      <module name="skywalking-clr-receiver-plugin" target="1.8" />
+      <module name="skywalking-istio-telemetry-receiver-plugin" target="1.8" />
+      <module name="skywalking-jvm-receiver-plugin" target="1.8" />
+      <module name="skywalking-mesh-receiver-plugin" target="1.8" />
+      <module name="skywalking-register-receiver-plugin" target="1.8" />
+      <module name="skywalking-sharing-server-plugin" target="1.8" />
+      <module name="skywalking-trace-receiver-plugin" target="1.8" />
+      <module name="sofa-rpc-plugin" target="1.6" />
+      <module name="spring-cloud" target="1.6" />
+      <module name="spring-commons" target="1.6" />
+      <module name="spring-plugins" target="1.6" />
+      <module name="storage-elasticsearch-plugin" target="1.8" />
+      <module name="storage-jaeger-plugin" target="1.8" />
+      <module name="storage-jdbc-hikaricp-plugin" target="1.8" />
+      <module name="storage-zipkin-plugin" target="1.8" />
+      <module name="telemetry-api" target="1.8" />
+      <module name="telemetry-prometheus" target="1.8" />
+      <module name="tomcat-7.x-8.x-plugin" target="1.6" />
+      <module name="undertow-plugins" target="1.6" />
+      <module name="vertx-plugins" target="1.6" />
+      <module name="zipkin-receiver-plugin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
